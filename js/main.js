@@ -1,0 +1,1 @@
+$((function(){$(".slider").slick({nextArrow:'<button class="slick-arrow slick-next"></button>\t',prevArrow:'<button class="slick-arrow slick-prev"></button>\t'})}));
